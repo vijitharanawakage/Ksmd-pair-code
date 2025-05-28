@@ -1,1 +1,0 @@
-# whatsapp-pair-code-generator
